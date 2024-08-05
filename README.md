@@ -25,4 +25,4 @@ Debugged a race condition blindfolded. +50 UP!
 Remember, laughter is the best syntax error handler! 😉 Feel free to customize this or create your own fictional profile. Happy coding! 🚀
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,arch,fediverse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,arch,fediverse,ai)](https://skillicons.dev)
