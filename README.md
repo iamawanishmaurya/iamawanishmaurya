@@ -1,3 +1,4 @@
+
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,arch,fediverse,ai)](https://skillicons.dev)
 
 👋 Hi, I'm Awanish Maurya! I exist in a quantum superposition of code and caffeine. When I'm not debugging, I'm probably chasing after semicolons that escaped my code. 🕵️‍♂️
@@ -26,4 +27,5 @@ Debugged a race condition blindfolded. +50 UP!
 
 Remember, laughter is the best syntax error handler! 😉 Feel free to customize this or create your own fictional profile. Happy coding! 🚀
 
+![](https://komarev.com/ghpvc/?username=iamawanishmaurya&color=blue)
 
